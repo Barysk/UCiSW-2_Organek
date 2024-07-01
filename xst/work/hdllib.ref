@@ -1,0 +1,10 @@
+AR kbdvgaconverter rtl C:/Users/lab/Desktop/NeoOrgan_v4/NeoOrgan/kbdVGAconverter.vhd sub00/vhpl09 1715682816
+EN kbdmodule NULL C:/Users/lab/Desktop/NeoOrgan_v5/NeoOrgan/kdbModule.vhd sub00/vhpl04 1716893776
+EN kbdvgaconverter NULL C:/Users/lab/Desktop/NeoOrgan_v5/NeoOrgan/kbdVGAconverter.vhd sub00/vhpl06 1716893780
+AR kbdvgaconverter behavioral C:/Users/lab/Desktop/NeoOrgan_v5/NeoOrgan/kbdVGAconverter.vhd sub00/vhpl07 1716893781
+EN pila_beh NULL C:/Users/lab/Desktop/NeoOrgan_v5/NeoOrgan/pila_beh.vhd sub00/vhpl00 1716893778
+EN fsm_sendbyte NULL C:/Users/lab/Desktop/NeoOrgan_v4/NeoOrgan/kbdVGAconverter.vhd sub00/vhpl08 1715681953
+EN nietylko_dacwrite_schematic NULL C:/Users/lab/Desktop/NeoOrgan_v5/NeoOrgan/nieTylko_dacWrite_schematic.vhf sub00/vhpl02 1716893782
+AR nietylko_dacwrite_schematic behavioral C:/Users/lab/Desktop/NeoOrgan_v5/NeoOrgan/nieTylko_dacWrite_schematic.vhf sub00/vhpl03 1716893783
+AR kbdmodule behavioral C:/Users/lab/Desktop/NeoOrgan_v5/NeoOrgan/kdbModule.vhd sub00/vhpl05 1716893777
+AR pila_beh behavioral C:/Users/lab/Desktop/NeoOrgan_v5/NeoOrgan/pila_beh.vhd sub00/vhpl01 1716893779

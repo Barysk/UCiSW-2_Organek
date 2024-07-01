@@ -1,0 +1,2 @@
+vhdl isim_temp "kbdVGAconverter.vhd"
+vhdl isim_temp "kbdVGAconverter_testbench.vhd"

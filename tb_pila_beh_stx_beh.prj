@@ -1,0 +1,2 @@
+vhdl isim_temp "pila_beh.vhd"
+vhdl isim_temp "pila_testbench.vhd"

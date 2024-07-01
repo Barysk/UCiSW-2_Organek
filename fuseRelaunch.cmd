@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "C:/Users/bk/Desktop/NeoOrgan/kbdVGAconverter_tb_isim_beh.exe" -prj "C:/Users/bk/Desktop/NeoOrgan/kbdVGAconverter_tb_beh.prj" "work.kbdVGAconverter_tb" 

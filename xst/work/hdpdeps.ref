@@ -1,0 +1,42 @@
+V3 31
+FL C:/Users/lab/Desktop/NeoOrgan/NeoOrgan/kdbModule.vhd 2024/04/30.12:29:21 P.20131013
+FL C:/Users/lab/Desktop/NeoOrgan/NeoOrgan/nieTylko_dacWrite_schematic.vhf 2024/04/30.12:29:27 P.20131013
+FL C:/Users/lab/Desktop/NeoOrgan/NeoOrgan/pila_beh.vhd 2024/04/30.12:13:42 P.20131013
+FL C:/Users/lab/Desktop/NeoOrgan_v4/NeoOrgan/kbdVGAconverter.vhd 2024/05/14.12:50:25 P.20131013
+FL C:/Users/lab/Desktop/NeoOrgan_v4/NeoOrgan/kdbModule.vhd 2024/04/30.12:29:21 P.20131013
+FL C:/Users/lab/Desktop/NeoOrgan_v4/NeoOrgan/nieTylko_dacWrite_schematic.vhf 2024/05/14.12:38:26 P.20131013
+FL C:/Users/lab/Desktop/NeoOrgan_v4/NeoOrgan/pila_beh.vhd 2024/04/30.12:13:42 P.20131013
+FL C:/Users/lab/Desktop/NeoOrgan_v5/NeoOrgan/kbdVGAconverter.vhd 2024/05/28.12:56:13 P.20131013
+EN work/kbdVGAconverter 1716893780 \
+      FL C:/Users/lab/Desktop/NeoOrgan_v5/NeoOrgan/kbdVGAconverter.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/std_logic_arith 1381692177 \
+      PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/kbdVGAconverter/Behavioral 1716893781 \
+      FL C:/Users/lab/Desktop/NeoOrgan_v5/NeoOrgan/kbdVGAconverter.vhd \
+      EN work/kbdVGAconverter 1716893780
+FL C:/Users/lab/Desktop/NeoOrgan_v5/NeoOrgan/kdbModule.vhd 2024/04/30.12:29:21 P.20131013
+EN work/kbdModule 1716893776 \
+      FL C:/Users/lab/Desktop/NeoOrgan_v5/NeoOrgan/kdbModule.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/std_logic_arith 1381692177
+AR work/kbdModule/Behavioral 1716893777 \
+      FL C:/Users/lab/Desktop/NeoOrgan_v5/NeoOrgan/kdbModule.vhd \
+      EN work/kbdModule 1716893776
+FL C:/Users/lab/Desktop/NeoOrgan_v5/NeoOrgan/nieTylko_dacWrite_schematic.vhf 2024/05/28.10:27:36 P.20131013
+EN work/nieTylko_dacWrite_schematic 1716893782 \
+      FL C:/Users/lab/Desktop/NeoOrgan_v5/NeoOrgan/nieTylko_dacWrite_schematic.vhf \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/nieTylko_dacWrite_schematic/BEHAVIORAL 1716893783 \
+      FL C:/Users/lab/Desktop/NeoOrgan_v5/NeoOrgan/nieTylko_dacWrite_schematic.vhf \
+      EN work/nieTylko_dacWrite_schematic 1716893782 CP DACWrite CP PS2_Kbd \
+      CP kbdModule CP pila_beh CP VGAtxt48x20 CP BUF CP kbdVGAconverter CP AND3B2 \
+      CP GND
+FL C:/Users/lab/Desktop/NeoOrgan_v5/NeoOrgan/pila_beh.vhd 2024/04/30.12:13:42 P.20131013
+EN work/pila_beh 1716893778 \
+      FL C:/Users/lab/Desktop/NeoOrgan_v5/NeoOrgan/pila_beh.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 \
+      PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/pila_beh/Behavioral 1716893779 \
+      FL C:/Users/lab/Desktop/NeoOrgan_v5/NeoOrgan/pila_beh.vhd EN work/pila_beh 1716893778
+FL C:/Users/lab/Documents/bkvt/NeoOrgan/NeoOrgan/nieTylko_dacWrite_schematic.vhf 2024/04/16.12:08:05 P.20131013
+FL C:/Users/lab/Documents/bkvt/NeoOrgan/NeoOrgan/pila_beh.vhd 2024/04/16.12:36:58 P.20131013

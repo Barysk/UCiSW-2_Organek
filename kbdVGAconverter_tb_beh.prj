@@ -1,0 +1,2 @@
+vhdl work "kbdVGAconverter.vhd"
+vhdl work "kbdVGAconverter_testbench.vhd"

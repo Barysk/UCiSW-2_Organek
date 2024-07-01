@@ -1,0 +1,8 @@
+vhdtdtfi -lib work pila_beh.vhd -prj NeoOrgan -o pila_beh.spl -module pila_beh -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e pila_beh.spl C:/Users/lab/Documents/bkvt/NeoOrgan/NeoOrgan/pila_beh.sym 
+vhdtdtfi -lib work pila_beh.vhd -prj NeoOrgan -o pila_beh.spl -module pila_beh -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e pila_beh.spl C:/Users/lab/Documents/bkvt/NeoOrgan/NeoOrgan/pila_beh.sym 
+vhdtdtfi -lib work pila_beh.vhd -prj NeoOrgan -o pila_beh.spl -module pila_beh -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e pila_beh.spl C:/Users/lab/Documents/bkvt/NeoOrgan/NeoOrgan/pila_beh.sym 
+vhdtdtfi -lib work pila_beh.vhd -prj NeoOrgan -o pila_beh.spl -module pila_beh -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e pila_beh.spl C:/Users/lab/Desktop/NeoOrgan/NeoOrgan/pila_beh.sym 

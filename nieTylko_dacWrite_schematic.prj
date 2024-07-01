@@ -1,0 +1,4 @@
+vhdl work "pila_beh.vhd"
+vhdl work "kdbModule.vhd"
+vhdl work "kbdVGAconverter.vhd"
+vhdl work "nieTylko_dacWrite_schematic.vhf"

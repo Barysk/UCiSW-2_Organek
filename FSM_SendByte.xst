@@ -1,0 +1,5 @@
+set -tmpdir "C:/Users/lab/Desktop/NeoOrgan_v4/NeoOrgan/xst/projnav.tmp"
+set -xsthdpdir "C:/Users/lab/Desktop/NeoOrgan_v4/NeoOrgan/xst"
+elaborate
+-ifn FSM_SendByte.prj
+-ifmt mixed

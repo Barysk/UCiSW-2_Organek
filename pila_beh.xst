@@ -1,0 +1,5 @@
+set -tmpdir "C:/Users/lab/Documents/bkvt/NeoOrgan/NeoOrgan/xst/projnav.tmp"
+set -xsthdpdir "C:/Users/lab/Documents/bkvt/NeoOrgan/NeoOrgan/xst"
+elaborate
+-ifn pila_beh.prj
+-ifmt mixed

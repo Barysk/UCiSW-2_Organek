@@ -1,0 +1,2 @@
+vhdl isim_temp "kdbModule.vhd"
+vhdl isim_temp "kbdModule_testbench.vhd"
